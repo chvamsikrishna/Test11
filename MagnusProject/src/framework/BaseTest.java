@@ -6,7 +6,7 @@ package framework;
 
 import pageobjects.PageActions;
 
-	
+	// ---git hub ----
 
 	public class BaseTest {
 
@@ -17,5 +17,6 @@ import pageobjects.PageActions;
 		protected Logger log = Logger.getLogger("devpinoyLogger");
 		
 	}
+
 
 
